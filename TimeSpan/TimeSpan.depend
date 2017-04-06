@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1412786951 source:c:\users\arnoldo\downloads\j\src\timespan\main.cpp
+	<iostream>
+	"TimeSpan.h"
+
+1412811896 c:\users\arnoldo\downloads\j\src\timespan\include\timespan.h
+	<stdio.h>
+
+1412786586 source:c:\users\arnoldo\downloads\j\src\timespan\src\timespan.cpp
+	"TimeSpan.h"
+	<iostream>
+

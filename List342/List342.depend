@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1414021169 source:c:\users\arnoldo\downloads\j\src\list342\main.cpp
+	<iostream>
+	"List342.h"
+
+1414078952 c:\users\arnoldo\downloads\j\src\list342\include\list342.h
+	<stdio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	"Child.h"
+	"Bird.h"
+
+1414078872 source:c:\users\arnoldo\downloads\j\src\list342\src\list342.cpp
+	"Child.h"
+	<stdio.h>
+	<string>
+
+1414078872 c:\users\arnoldo\downloads\j\src\list342\include\child.h
+	<stdio.h>
+	<string>
+
+1414078936 c:\users\arnoldo\downloads\j\src\list342\include\bird.h
+	<stdio.h>
+	<string>
+
+1414078936 source:c:\users\arnoldo\downloads\j\src\list342\src\bird.cpp
+	"Bird.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1414078986 source:c:\users\arnoldo\downloads\j\src\list342\src\child.cpp
+	"Child.h"
+	<stdio.h>
+	<string>
+

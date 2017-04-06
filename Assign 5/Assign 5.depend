@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1418067691 source:c:\users\arnoldo\downloads\j\src\assign 5\main.cpp
+	<iostream>
+	"BSTree.h"
+	"Transaction.h"
+	<fstream>
+
+1418086581 
+
+1417736537 source:c:\users\arnoldo\downloads\j\src\assign 5\src\account.cpp
+	<string>
+	"Account.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1417736088 c:\users\arnoldo\downloads\j\src\assign 5\include\account.h
+	<stdio.h>
+	<string>
+	<vector>
+	<queue>
+
+1418086581 source:c:\users\arnoldo\downloads\j\src\assign 5\src\bstree.cpp
+	"BSTree.h"
+	<iostream>
+	<queue>
+
+1418086581 c:\users\arnoldo\downloads\j\src\assign 5\include\bstree.h
+	<stdio.h>
+	"Account.h"
+
+1418086581 "
+
+1418086325 source:c:\users\arnoldo\downloads\j\src\assign 5\src\transaction.cpp
+	"Transaction.h"
+	"BSTRee.h"
+	<queue>
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+
+1417739352 c:\users\arnoldo\downloads\j\src\assign 5\include\transaction.h
+	<stdio.h>
+	"Account.h"
+	"BSTree.h"
+	<vector>
+	<iostream>
+	<string>
+	<queue>
+
+1418155278 source:/Users/artemkovtunenko/Documents/src/Assign 5/main.cpp
+	<iostream>
+	"BSTree.h"
+	"Transaction.h"
+	<fstream>
+
+1418106584 /Users/artemkovtunenko/Documents/src/Assign 5/include/BSTree.h
+	<stdio.h>
+	"Account.h"
+
+1418155278 /Users/artemkovtunenko/Documents/src/Assign 5/include/Account.h
+	<stdio.h>
+	<string>
+	<vector>
+	<queue>
+
+1418155278 /Users/artemkovtunenko/Documents/src/Assign 5/include/Transaction.h
+	<stdio.h>
+	"Account.h"
+	"BSTree.h"
+	<vector>
+	<iostream>
+	<string>
+	<queue>
+
+1418155278 source:/Users/artemkovtunenko/Documents/src/Assign 5/src/Account.cpp
+	<string>
+	"Account.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1418257415 source:/Users/artemkovtunenko/Documents/src/Assign 5/src/BSTree.cpp
+	"BSTree.h"
+	<iostream>
+	<queue>
+
+1418106506 source:/Users/artemkovtunenko/Documents/src/Assign 5/src/Transaction.cpp
+	"Transaction.h"
+	<queue>
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+

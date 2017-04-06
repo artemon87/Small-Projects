@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1412724148 source:c:\users\arnoldo\downloads\j\src\class\main.cpp
+	<iostream>
+	"Anna.h"
+
+1412724067 c:\users\arnoldo\downloads\j\src\class\include\anna.h
+
+1412724201 source:c:\users\arnoldo\downloads\j\src\class\src\anna.cpp
+	<iostream>
+	"Anna.h"
+

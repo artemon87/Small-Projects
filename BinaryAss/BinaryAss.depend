@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1420846241 source:c:\users\arnoldo\downloads\j\src\binaryass\main.cpp
+	<iostream>
+	"Binary.h"
+
+1420845953 
+
+1420845953 c:\users\arnoldo\downloads\j\src\binaryass\include\binary.h
+	<iostream>
+
+1420845953 source:c:\users\arnoldo\downloads\j\src\binaryass\src\binary.cpp
+	"Binary.h"
+	<iostream>
+
+1420846676 source:/Users/artemkovtunenko/Documents/src/BinaryAss/src/Binary.cpp
+	"Binary.h"
+	<iostream>
+
+1420845953 /Users/artemkovtunenko/Documents/src/BinaryAss/include/Binary.h
+	<iostream>
+
+1420848006 source:/Users/artemkovtunenko/Documents/src/BinaryAss/main.cpp
+	<iostream>
+	"Binary.h"
+
